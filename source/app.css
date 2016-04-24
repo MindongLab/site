@@ -1,0 +1,48 @@
+    body {
+        margin: 0px;
+    }
+    .ms-NavBar-openMenu i {
+        line-height: 40px;
+    }
+    .PageContainer {
+        max-width: 948px;
+        
+        width:100%;
+        margin: 0 auto;
+    }
+    .Carousel {
+        height:300px;
+        width:100%;
+        background-color:azure;
+    }
+    .JoinChat {
+        background-color:greenyellow;
+        min-height: 100px;
+    }
+    .ProjectListItem {
+        min-height: 200px;
+        background-color: aliceblue;
+        margin-bottom: 20px;
+    }
+    .ProjectListItem-Title{
+        text-align: center;
+        text-overflow: ellipsis;
+        overflow:hidden;
+        white-space: nowrap;
+    }
+    .Footer {
+        padding:10px;
+        text-align: center;
+    }
+    .PageTitle {
+        
+        background-color:cornflowerblue;
+        color: white;
+        position: relative;
+        padding-top:45px;
+        padding-bottom:45px;
+    }
+    .PageTitle-Text {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
