@@ -1,0 +1,10 @@
+  <script src="{{ .Site.BaseURL }}vendor/jquery/jquery-1.12.3.min.js"></script>
+  <script src="{{ .Site.BaseURL }}vendor/fabric/js/jquery.fabric.min.js"></script>
+  <script>
+    $(document).ready(function() {
+        // Check to make sure the NavBar plugin is available, then run it
+        if ($.fn.NavBar) {
+          $('.ms-NavBar').NavBar();
+        }
+    });
+  </script>

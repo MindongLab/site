@@ -1,0 +1,12 @@
+name = "MindongLab"
+license = "MIT"
+licenselink = "https://github.com/dim0627/hugo_theme_robust/blob/master/LICENSE.md"
+description = "custom theme"
+tags = ["blog"]
+features = ["blog"]
+min_version = 0.15
+
+[author]
+    name = "Radium Zheng"
+    homepage = ""
+
