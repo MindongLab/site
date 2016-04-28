@@ -1,0 +1,7 @@
+<div class="ProjectList">
+	{% for item in collections.project %} {% if item.locale == locale %}
+	<div class="ms-Grid-col ms-u-sm12 ms-u-md6 ms-u-lg4">
+		{% include "partials/project_list/project-listitem.html" %}
+	</div>
+	{% endif %} {% endfor %}
+</div>

@@ -1,0 +1,13 @@
+<script src="{{domain}}{{ root }}vendor/jquery/jquery-1.12.3.min.js"></script>
+<script src="{{domain}}{{ root }}vendor/fabric/js/jquery.fabric.min.js"></script>
+<script>
+  $(document).ready(function() {
+        // Check to make sure the NavBar plugin is available, then run it
+        if ($.fn.NavBar) {
+          $('.ms-NavBar').NavBar();
+        }
+		if ($.fn.MessageBanner) {
+          $('.ms-MessageBanner').MessageBanner();
+        }
+    });
+</script>
