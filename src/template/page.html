@@ -1,0 +1,19 @@
+<html lang="{{ locale }}">
+
+<head>
+  {% include "partials/default_head.html" %}
+</head>
+
+<body>
+  {% include "partials/header.html" %}
+  <div class="PageContainer">
+    <div class="PageTitle">
+      <div class="PageTitle-Text ms-fontSize-su ms-fontWeight-regular">{{ title }}</div>
+    </div>
+    <div class="PageContent">{{ contents | safe}}</div>
+  </div>
+  {% include "partials/footer.html" %} {% include "partials/default_postscript.html" %}
+
+</body>
+
+</html>

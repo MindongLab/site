@@ -1,0 +1,36 @@
+<html lang="{{locale}}">
+
+<head>
+  {% include "partials/default_head.html" %}
+</head>
+
+<body>
+  {% include "partials/header.html" %}
+  <div class="PageContainer">
+    {% include "partials/message_switchlang.html" %}
+    <div class="ms-Grid">
+     {#
+      <div class="ms-Grid-row">
+        <div class="ms-Grid-col ms-u-sm12 ms-u-md-12 ms-u-lg8">
+          <div class="Carousel">asbs</div>
+        </div>
+        <div class="ms-Grid-col ms-u-sm12 ms-u-md-12 ms-u-lg4">
+          <div class="JoinChat">
+            <div class="ms-font-xl">{{ __("joinchat") }}</div><button class="ms-Button ms-Button--primary"> <span class="ms-Button-icon"><i class="ms-Icon ms-Icon--plus"></i></span> <span class="ms-Button-label">Create account</span> <span class="ms-Button-description">Description of the action this button takes</span> </button></div>
+        </div>
+      </div>
+      #}
+      
+      <div class="ms-Grid-row">
+        <div class="ms-Grid-col ms-u-sm12">
+          <h1 class="ms-Font-xxl">{{ __("projects") }}</h1></div>
+      </div>
+      <div class="ms-Grid-row">
+        {% include "partials/project_list/project-list.html" %}
+      </div>
+    </div>
+  </div>
+  {% include "partials/footer.html" %} {% include "partials/default_postscript.html" %}
+</body>
+
+</html>
