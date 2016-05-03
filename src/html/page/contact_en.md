@@ -9,7 +9,7 @@ collection: page
 
 ## How to join?
 
-**Even if you don't know how to program, you can contribute. You can help us find bugs, provide feedback, or provide help on linguistics or cultural stuies.**
+**Even if you don't know how to program, you can still contribute. You can help us find bugs, provide feedback, or provide help on linguistics or cultural studies.**
 
 ## Contact person
 Radium Zheng [@ztl8702](https://github.com/ztl8702)
