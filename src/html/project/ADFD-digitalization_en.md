@@ -32,6 +32,7 @@ Potential applications include:
 
 ### Stage 2 - Machine OCR [Ongoing]
 - We intend to use [ABBYY OCR SDK](http://ocrsdk.com/) for image recognition. 
+Using an OCR engine as accurate as ABBYY can greatly reduce the time and effort needed for manual input and review.
 
 ### Stage 3 - Crowdsourced Reviewing
 - Use the power of the crowd to manually review each entry.
