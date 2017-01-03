@@ -44,8 +44,8 @@ var
     name: 'Mindong Lab',
     desc: 'A demonstration static site built using Metalsmith',
     author: 'Mindong Lab',
-    contact: 'https://twitter.com/craigbuckler',
-    domain: devBuild ? 'http://127.0.0.1:3000/' : 'http://lab.mindong.asia/', // set domain
+    contact: 'https://github.com/MindongLab',
+    domain: devBuild ? 'http://127.0.0.1:3000/' : 'https://lab.mindong.asia/', // set domain
     rootpath: devBuild ? null : '/craigbuckler/metalsmith-demo/master/build/' // set absolute path (null for relative)
   },
 
