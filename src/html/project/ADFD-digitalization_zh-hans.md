@@ -9,11 +9,11 @@ machinename: ADFD-digitalization
 <h2 class="ms-Font-xxl">简介</h2>
 Alphabetic Dictionary of the Foochow Dialect, Third Edition, 1929
 
-这是一部由传教士著成的闽东语福州话 - 英语 的对照辞典。第一版写于1870年，此为第三版。全书近2000页收入了几万个词汇。将此辞典数位化，不仅会成为目前最大的福州话词典； 对闽语古今变迁的研究，也能提供宝贵的资料。
+这是一部由传教士著成的闽东语福州话 - 英语 的对照辞典。第一版写于1870年，此为第三版。全书近2000页收入了几万个词汇。
 
 <h2 class="ms-Font-xxl">为什么要数字化这本辞典？</h2>
 
-这本辞典数字化后不仅将成为网上最大的、开放的福州话辞典，也将使学者，特别是[闽东语](https://en.wikipedia.org/wiki/Eastern_Min)历史演化的研究者获得宝贵的数据。
+将此辞典数位化，不仅会成为目前最大的福州话词典； 对[闽东语](https://en.wikipedia.org/wiki/Eastern_Min)古今变迁的研究，也能提供宝贵的资料。
 
 其他可能的应用包括：
 
