@@ -17,3 +17,6 @@ collection: page
 <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+## 用支付宝捐款
+
+<img src="{{ domain }}images/alipay.jpg" style="max-width:250px"/>
