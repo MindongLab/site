@@ -16,7 +16,7 @@ The third edition of this dictionary has 2000+ pages with tens of thousands of e
 
 <h2 class="ms-Font-xxl">Why Digitalize This Dictionary?</h2>
 
-Digitalizing this dictionary will not only create the largest Foochow dictionary online, but it will also be benificial to scholars, especially those whose focus is on the evolution of [Eastern Min](https://en.wikipedia.org/wiki/Eastern_Min) over time.
+Digitalizing this dictionary will not only create the largest Foochow dictionary openly available online, but it will also be benificial to scholars, especially those whose focus is on the evolution of [Eastern Min](https://en.wikipedia.org/wiki/Eastern_Min) over time.
 
 Potential applications include:
 
@@ -30,13 +30,13 @@ Potential applications include:
 - Decomposing pages into individual entries.
 - Segmented images are available [here](https://github.com/ztl8702/adfd/tree/master/processing/segments).
 
-### Stage 2 - Machine OCR [Ongoing]
+### Stage 2 - Machine OCR [Done]
 - We intend to use [ABBYY OCR SDK](http://ocrsdk.com/) for image recognition. 
 Using an OCR engine as accurate as ABBYY can greatly reduce the time and effort needed for manual input and review.
 
-### Stage 3 - Crowdsourced Reviewing
+### Stage 3 - Crowdsourced Reviewing [Ongoing]
 - Use the power of the crowd to manually review each entry.
-- We are building a web application for this purpose.
+- We have built a web application for this purpose.
 
 ### Stage 4 - Post-processing
 - Create the data structure for the dictionary.
