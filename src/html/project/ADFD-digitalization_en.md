@@ -26,6 +26,8 @@ Potential applications include:
 
 <h2 class="ms-Font-xxl">Plan & Outline</h2>
 
+<img src="{{ domain }}images/adfd_procedure_en.png" style="width:100%; max-width:850px;"/>
+
 ### Stage 1 - Segmentation [Done]
 - Decomposing pages into individual entries.
 - Segmented images are available [here](https://github.com/ztl8702/adfd/tree/master/processing/segments).

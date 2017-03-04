@@ -23,6 +23,8 @@ Alphabetic Dictionary of the Foochow Dialect, Third Edition, 1929
 
 <h2 class="ms-Font-xxl">实施计划</h2>
 
+<img src="{{ domain }}images/adfd_procedure_en.png" style="width:100%; max-width:850px;"/>
+
 ### 第 1 阶段 - 切片 [已完成]
 - 将辞典页面按词条切割。
 - 切割后的图片可在[这里](https://github.com/ztl8702/adfd/tree/master/processing/segments)找到。
