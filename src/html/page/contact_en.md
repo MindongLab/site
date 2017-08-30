@@ -7,9 +7,15 @@ priority: 2
 collection: page
 ---
 
-## How to join?
+## How to participate?
 
 **Even if you don't know how to program, you can still contribute. You can help us find bugs, provide feedback, or provide help on linguistics or cultural studies.**
+
+## Discussion Board
+Post your questions and participate in discussions at our [meta repo](https://github.com/MindongLab/meta).
+
+## Mailing List
+Send us an email at [`MindongLab@GoogleGroups.com`](mailto:mindonglab@googlegroups.com).
 
 ## Contact person
 Radium Zheng [@ztl8702](https://github.com/ztl8702)
