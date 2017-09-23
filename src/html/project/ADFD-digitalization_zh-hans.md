@@ -29,12 +29,13 @@ Alphabetic Dictionary of the Foochow Dialect, Third Edition, 1929
 - 将辞典页面按词条切割。
 - 切割后的图片可在[这里](https://github.com/ztl8702/adfd/tree/master/processing/segments)找到。
 
-### 第 2 阶段 - 机器 OCR [已完成]
+### 第 2 阶段 - 机器 OCR [可能需要重新进行]
 - 光学字符识别。
+- 关于重新OCR的讨论[见此](https://github.com/ztl8702/adfd/issues/1)。
 
 ### 第 3 阶段 - 众包录入和校对 [进行中]
 - 使用众人之力，人工录入和校对每条词条。
-- 我们为此开发了一个网页程序。
+- 我们为此开发了一个[网页程序](https://github.com/ztl8702/CrowdSource)。
 
 <a href="http://cs.mindong.asia" target="_blank">
   <button class="ms-Button ms-Button--primary">
@@ -47,5 +48,5 @@ Alphabetic Dictionary of the Foochow Dialect, Third Edition, 1929
 - 将数据公开。
 - 制作一个用于查询字典的网页UI。
 
-<h2 class="ms-Font-xxl">讨论帖</h2>
-[via 海墘闽语](http://www.ispeakmin.com/bbs/viewthread.php?tid=8900)
+<h2 class="ms-Font-xxl">项目讨论区</h2>
+请在项目的[Issue 列表](https://github.com/ztl8702/adfd/issues) 参与讨论。
