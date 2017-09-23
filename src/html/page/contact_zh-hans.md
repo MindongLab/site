@@ -18,6 +18,9 @@ date: 2016-04-19
 ## 在线讨论区
 你可以在我们的 [meta repo](https://github.com/MindongLab/meta) 提问和参与讨论。
 
+## QQ 群
+群號碼 `519783603`。
+
 ## 邮件列表
 你也可以发邮件到我们的邮件列表 [`MindongLab@GoogleGroups.com`](mailto:mindonglab@googlegroups.com)。
 
