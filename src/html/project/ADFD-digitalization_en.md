@@ -32,18 +32,19 @@ Potential applications include:
 - Decomposing pages into individual entries.
 - Segmented images are available [here](https://github.com/ztl8702/adfd/tree/master/processing/segments).
 
-### Stage 2 - Machine OCR [Done]
+### Stage 2 - Machine OCR [Planning a 2nd attempt]
 - We intend to use [ABBYY OCR SDK](http://ocrsdk.com/) for image recognition. 
 Using an OCR engine as accurate as ABBYY can greatly reduce the time and effort needed for manual input and review.
+- To help with re-applying OCR, see [this issue](https://github.com/ztl8702/adfd/issues/1)。.
 
 ### Stage 3 - Crowdsourced Reviewing [Ongoing]
 - Use the power of the crowd to manually review each entry.
-- We have built a web application for this purpose.
+- We have built a [web application](https://github.com/ztl8702/CrowdSource) for this purpose.
 
 ### Stage 4 - Post-processing
 - Create the data structure for the dictionary.
 - Publish the data.
 - Create a web UI for querying dictionary entries.
 
-<h2 class="ms-Font-xxl">Discussion forum</h2>
-[via 海墘闽语](http://www.ispeakmin.com/bbs/viewthread.php?tid=8900)
+<h2 class="ms-Font-xxl">Participate in Discussions</h2>
+Please visit the [issue tracker](https://github.com/ztl8702/adfd/issues) of this project.
