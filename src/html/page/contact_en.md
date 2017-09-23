@@ -14,6 +14,9 @@ collection: page
 ## Discussion Board
 Post your questions and participate in discussions at our [meta repo](https://github.com/MindongLab/meta).
 
+## Group Chat on Tencent QQ
+Group ID: `519783603`
+
 ## Mailing List
 Send us an email at [`MindongLab@GoogleGroups.com`](mailto:mindonglab@googlegroups.com).
 
