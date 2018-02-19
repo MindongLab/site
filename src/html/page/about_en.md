@@ -10,10 +10,10 @@ collection: page
 
 Mindong Lab is a group of open-source volunteers. 
 
-Our aim is using Software Engineering to preserve Easter Min (Mindong), which is a Chinese varient spoken in southeastern China.
+Our aim is using Software Engineering to preserve Eastern Min (Mindong), which is a Chinese variant spoken in Southeast China.
 
-We hope to provide tools for learners and researchers of Easter Min.
+We hope to provide tools for learners and researchers of Eastern Min.
 
 Our goals:
  - Support our mother tongue; promote linguistic diversity
- - Use the power of the crowd; work as a community
+ - Use crowdsourcing; work as a community
