@@ -1,6 +1,6 @@
 ---
-title: "《闽英大辞典》数位化"
-description: "用众包的方式，将 1929 年的闽英大辞典制成可以查询的电子辞典。"
+title: "《榕腔注音辞典》数位化"
+description: "用众包的方式，将 1929 年的榕腔注音辞典制成可以查询的电子辞典。"
 layout: page.html
 collection: project
 machinename: ADFD-digitalization
